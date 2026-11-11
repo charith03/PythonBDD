@@ -1,0 +1,16 @@
+class LoginAndInventory:
+
+    username = "#user-name"
+    password = "#password"
+    loginButton = "#login-button"
+    ProductNames = ".inventory_item_name"
+    ProductPrices = ".inventory_item_price"
+    AddToCart = ".btn_inventory"
+    cart = ".shopping_cart_link"
+    checkout = "#checkout"
+    first_name = "#first-name"
+    last_name = "#last-name"
+    postal_code = "#postal-code"
+    conutinue_checkout = "#continue"
+    finish_checkout = "#finish"
+    back_home = "#back-to-products"
